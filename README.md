@@ -1,3 +1,3 @@
 ## Stack
 #### Techs that I've used at least once
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/[#A8B9CC]?style=flat-square&logo=[C]&logoColor=white"/></a>
