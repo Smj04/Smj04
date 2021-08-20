@@ -15,6 +15,6 @@ Techs that I've used at least once<br><br>
 <br><br>
 ❤Me❤<br><br>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a><br><br>
+</a>
 <a href="https://www.instagram.com/s___m__j/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </div>
