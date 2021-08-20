@@ -1,7 +1,7 @@
 
 <div align="center">
 Stack<br>
-Techs that I've used at least once
+Techs that I've used at least once<br>
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
