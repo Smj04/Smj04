@@ -3,7 +3,7 @@
 
 <div align="center">
  
-# 🔨S t a c k⛏
+# 🔨 S t a c k ⛏
 #### Techs that I've used at least once
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=Php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a><br><br>
 
-##### ❤M e❤
+##### ❤ M e ❤
 
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
