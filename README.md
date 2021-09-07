@@ -1,7 +1,7 @@
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waawa04&show_icons=true&theme=radical)
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waawa04&show_icons=true&theme=radical)
+  
 🔨Stack⛏<br><br>
 Techs that I've used at least once<br><br>
 <div align="center">
