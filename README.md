@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFFAFA&height=160&section=header&text=Hi!%20I'm%20waawa04!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=9370DB&animation=fadeIn)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40&desc=Desc&descSize=30)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40&desc=Desc&descSize=30&animation=fadeIn)
 <div align="center">
  
 # 🔨 S t a c k ⛏
