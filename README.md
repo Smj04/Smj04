@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFFAFA&height=160&section=header&text=Hi!%20I'm%20waawa04!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=9370DB&animation=fadeIn)
  -->
 
-![header](https://capsule-render.vercel.app/api?height=250&section=header&text=Hi!%20I'm%20waawa04!&fontColor=4B0082&animation=blink)
+![header](https://capsule-render.vercel.app/api?height=250&section=header&text=Hi!%20I'm%20waawa04!&fontColor=4B0082&animation=fadeIn)
 
 <div align="center">
  
