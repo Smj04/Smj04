@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waawa04&show_icons=true&theme=radical)
+
 
 <div align="center">
   
@@ -21,4 +21,4 @@ Techs that I've used at least once<br><br>
 <a href="https://www.instagram.com/s___m__j/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waawa04&show_icons=true&theme=radical)
