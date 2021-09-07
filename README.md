@@ -25,6 +25,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waawa04&show_icons=true&theme=buefy)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={waawa04})](https://solved.ac/{userid})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={waawa04})](https://solved.ac/{userid})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={waawa04})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={waawa04})](https://solved.ac/{waawa04})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={waawa04})](https://solved.ac/{waawa04})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={waawa04})](https://solved.ac/{waawa04})
