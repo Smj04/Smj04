@@ -3,7 +3,7 @@
 <div align="center">
   
 # 🔨Stack⛏
-Techs that I've used at least once<br><br>
+### Techs that I've used at least once
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
