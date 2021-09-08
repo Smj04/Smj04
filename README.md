@@ -17,7 +17,7 @@
 
 ##### ❤ M e ❤
 
-<a href="minjungseo04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a target="_blank" mailto:minjungseo04@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/s.0llar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </div>
