@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=Php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a><br><br>
 
-##### ❤ M e ❤
+##### 💜 M e 💜
 
 <!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjungseo04@gmail.com)](mailto:minjungseo04@gmail.com)
