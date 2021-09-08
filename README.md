@@ -19,7 +19,6 @@
 
 <!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjungseo04@gmail.com)](mailto:minjungseo04@gmail.com)
-
 <a href="https://www.instagram.com/s.0llar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </div>
 
