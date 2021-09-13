@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?&type="aving"&height=250&section=header&text=Hi!%20I'm%20waawa04!&fontColor=4B0082&animation=fadeIn) -->
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40)
+
 
 <div align="center">
  
