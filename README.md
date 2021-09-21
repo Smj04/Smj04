@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi!%20I'm%20waawa04!&fontSize=90&animation=fadeIn" />
 
 
-<div align="center">
+<div align="cente">
  
 # 🔨 S t a c k ⛏
 #### Techs that I've used at least once
