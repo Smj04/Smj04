@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?&type="Soft"&height=250&section=header&text=Hi!%20I'm%20waawa04!&fontColor=4B0082&animation=fadeIn)  -->
+<!-- ![header](https://capsule-render.vercel.app/api?&type="Soft"&height=250&section=header&text=Hi!%20I'm%20Smj04&fontColor=4B0082&animation=fadeIn)  -->
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi!%20I'm%20waawa04!&fontSize=90&animation=fadeIn" />
 
 
