@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?&type="Soft"&height=250&section=header&text=Hi!%20I'm%20Smj04&fontColor=4B0082&animation=fadeIn)  -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=I'm%20Smj04!&fontSize=90&desc="studying%20development"&animation=fadeIn" /> -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=I'm%20Smj04!&fontAlignY=40&fontSize=90&desc=(❁´◡`❁)&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Smj04!&fontAlignY=40&fontSize=90&desc=(❁´◡`❁)&animation=fadeIn)
 
 
 <div align="center">
