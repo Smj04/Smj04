@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-09D3AC?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=React&logoColor=white"/></a>
 
 ### 📫Me
 
